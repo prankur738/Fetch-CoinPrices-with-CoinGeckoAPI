@@ -7,6 +7,11 @@ The Coin Price Fetcher App is a web application that fetches and displays coin p
 
 ![crypto-img](https://github.com/prankur738/Fetch-CoinPrices-with-CoinGeckoAPI/assets/58555740/2054957b-66c9-4135-9924-e0735ed493b8)
 
+
+View [Live Demo](https://master.d2cudw0ppsflm2.amplifyapp.com/)
+
+
+
 ## Features
 
 - Real-time coin price updates.
@@ -20,4 +25,4 @@ The Coin Price Fetcher App is a web application that fetches and displays coin p
 - CSS
 - JavaScript
 
-View [Live Demo](https://master.d2cudw0ppsflm2.amplifyapp.com/)
+
