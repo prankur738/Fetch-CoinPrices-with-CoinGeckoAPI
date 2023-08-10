@@ -19,3 +19,5 @@ The Coin Price Fetcher App is a web application that fetches and displays coin p
 - HTML
 - CSS
 - JavaScript
+
+View [Live Demo](https://master.d2cudw0ppsflm2.amplifyapp.com/)
